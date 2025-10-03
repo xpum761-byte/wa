@@ -1,0 +1,5 @@
+{
+  "name": "WA Broadcast Simulator",
+  "description": "A web application that simulates sending broadcast messages, similar to WhatsApp, without using any official API. Users can select multiple contacts, compose a message, and simulate sending it.",
+  "requestFramePermissions": []
+}
